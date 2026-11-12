@@ -1,6 +1,0 @@
-*
-!.git/
-!src/isar_taurob
-!pyproject.toml
-!README.md
-!uv.lock
